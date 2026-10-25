@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "GOJOWOWYT1.aternos.me:48228",
+    "port": 48228,
     "version": "1.21.1"
   },
   "position": {
